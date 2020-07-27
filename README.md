@@ -73,10 +73,10 @@
 
 ### Confusion matrix
 
-|        | Predicted 1 | Predicted 0|
+|        | Predicted Nodule | Predicted Normal|
 |------- | ----------- | -----------|
-|Actual 1| 20          | 21         |
-|Actual 0| 422         |            |
+|Actual Nodule| 20          | 21         |
+|Actual Normal| 422         |            |
 
 
 ### Точность и полнота
